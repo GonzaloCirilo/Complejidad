@@ -1,0 +1,8 @@
+﻿  Reinas.cpp
+c:\users\usuario\documents\visual studio 2015\projects\tp_complejidad\tp_complejidad\Reinas.h(512): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\tp_complejidad\tp_complejidad\Reinas.h(529): warning C4101: 'd': unreferenced local variable
+Reinas.cpp(5): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\usuario\documents\visual studio 2015\projects\tp_complejidad\tp_complejidad\reinas.h(615): warning C4715: 'TP_Complejidad::Reinas::score': not all control paths return a value
+  Mapa.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  TP_Complejidad.vcxproj -> C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP_Complejidad\Debug\TP_Complejidad.exe
+  TP_Complejidad.vcxproj -> C:\Users\Usuario\Documents\Visual Studio 2015\Projects\TP_Complejidad\Debug\TP_Complejidad.pdb (Partial PDB)
