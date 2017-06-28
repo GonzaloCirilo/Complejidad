@@ -1,2 +1,2 @@
 # Complejidad
-Files from class
+Repositorio con proyectos para la clase de Complejidad algorítmica.
