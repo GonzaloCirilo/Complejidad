@@ -1,2 +1,2 @@
 # Complejidad
-Repositorio con proyectos para la clase de Complejidad algorítmica.
+Juego de 8 reinas en un tablero de ajedrez. El algoritmo utilizado por el oponente es alpha-beta prunning
