@@ -1,2 +1,2 @@
-# Complejidad
-Juego de 8 reinas en un tablero de ajedrez. El algoritmo utilizado por el oponente es alpha-beta prunning
+# 8 Queen chess game
+The 8 queen chess game was developed for the course "Complejidad Algoritmica". The AI alogrithm chosen was minimax with alpha-beta prunning.
